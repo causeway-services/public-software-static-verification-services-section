@@ -11,4 +11,4 @@ public-software-static-verification-services-section is a services section of th
 
 ## Code custody
 
-This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/software-static-verification-service](https://github.com/red-cup-engineering/software-static-verification-service) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
+This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/public-software-static-verification-services-section](https://github.com/red-cup-engineering/public-software-static-verification-services-section) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
